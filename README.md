@@ -1,1 +1,6 @@
-# ALL_PROJECTS
+TP1 = "https://github.com/RaMiSaSSi/TP1.git"
+TP3(sqlite+serilizer) = "https://github.com/RaMiSaSSi/TP3.git"
+SERVICE = "https://github.com/RaMiSaSSi/service.git"
+INTENT = "https://github.com/RaMiSaSSi/intent.git"
+SMS = "https://github.com/RaMiSaSSi/SMS.git"
+system_solaire = "https://github.com/RaMiSaSSi/Mobile.git"
